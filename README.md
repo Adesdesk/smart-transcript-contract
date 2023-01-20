@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+An improved (January 20, 2022) version of the Smart-Transcript smart contract with the revoke copy functionality restricted.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Successfully verified contract SmartTranscript on Etherscan.
+https://goerli.etherscan.io/address/0x73F9671506f3494F97F1e32Ca45810610b3704c5#code
